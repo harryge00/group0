@@ -20,6 +20,7 @@
 
 /* Number of x86 interrupts. */
 //hello wolrd
+//hello 2
 #define INTR_CNT 256
 
 /* The Interrupt Descriptor Table (IDT).  The format is fixed by

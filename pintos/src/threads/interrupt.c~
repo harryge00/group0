@@ -19,6 +19,7 @@
 #define PIC1_DATA	0xa1    /* Slave PIC data register address. */
 
 /* Number of x86 interrupts. */
+//hello wolrd
 #define INTR_CNT 256
 
 /* The Interrupt Descriptor Table (IDT).  The format is fixed by
